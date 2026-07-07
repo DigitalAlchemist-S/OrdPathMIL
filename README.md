@@ -131,7 +131,7 @@ the final bibliographic information is available.
 
 ```bibtex
 @inproceedings{ordpathmil2026,
-  title     = {OrdPath-MIL: Ordinal Pathology Multiple Instance Learning for Whole-Slide Image Grading},
+  title     = {OrdPath-MIL: Ordinal Multiple Instance Learning for Pathology Whole-Slide Image Grading},
   author    = {Anonymous},
   booktitle = {MICCAI Workshop},
   year      = {2026}
